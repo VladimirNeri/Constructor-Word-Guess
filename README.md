@@ -42,4 +42,4 @@ The completed game should meet the following criteria:
 
 ### Live Demo
 
-[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/tFkUkQqxAfI8d4BKrGM3U1AkK)
+[![asciicast](https://asciinema.org/a/tFkUkQqxAfI8d4BKrGM3U1AkK.svg)](https://asciinema.org/a/tFkUkQqxAfI8d4BKrGM3U1AkK)
